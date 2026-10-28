@@ -1,6 +1,6 @@
-23:10:01.437 [producer] pedido_id=PED-0004 publicado em notificacoes cliente=Elisa valor=386.16 (confirmado pelo broker em 1.3 ms)
-23:10:01.438 [producer] pedido_id=PED-0005 publicado em notificacoes cliente=Diego valor=359.24 (confirmado pelo broker em 1.0 ms)
-23:10:01.439 [producer] pedido_id=PED-0006 publicado em notificacoes cliente=Diego valor=235.17 (confirmado pelo broker em 0.9 ms)
-23:10:01.440 [producer] pedido_id=PED-0007 publicado em notificacoes cliente=Bruno valor=436.79 (confirmado pelo broker em 0.9 ms)
-23:10:01.441 [producer] pedido_id=PED-0008 publicado em notificacoes cliente=Fabio valor=459.57 (confirmado pelo broker em 0.8 ms)
-23:10:01.441 [producer] 5 pedido(s) publicados em 5.6 ms - producer encerrado sem esperar processamento
+23:25:29.577 [producer] pedido_id=PED-0004 publicado em notificacoes cliente=Carla valor=292.93 (confirmado pelo broker em 1.8 ms)
+23:25:29.578 [producer] pedido_id=PED-0005 publicado em notificacoes cliente=Elisa valor=95.69 (confirmado pelo broker em 1.1 ms)
+23:25:29.580 [producer] pedido_id=PED-0006 publicado em notificacoes cliente=Heitor valor=347.31 (confirmado pelo broker em 1.2 ms)
+23:25:29.581 [producer] pedido_id=PED-0007 publicado em notificacoes cliente=Gabriela valor=410.26 (confirmado pelo broker em 1.0 ms)
+23:25:29.582 [producer] pedido_id=PED-0008 publicado em notificacoes cliente=Carla valor=48.70 (confirmado pelo broker em 1.3 ms)
+23:25:29.583 [producer] 5 pedido(s) publicados em 7.4 ms - producer encerrado sem esperar processamento

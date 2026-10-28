@@ -1,27 +1,27 @@
-23:10:23.728 [consumer-C1] aguardando mensagens na fila 'notificacoes' (falhar_em=-, modo_falha=dlq)
-23:10:23.729 [consumer-C2] aguardando mensagens na fila 'notificacoes' (falhar_em=-, modo_falha=dlq)
-23:10:25.701 [consumer-C1] pedido_id=PED-0020 recebido tentativa=1 redelivered=False cliente=Elisa valor=47.86
-23:10:25.702 [consumer-C2] pedido_id=PED-0021 recebido tentativa=1 redelivered=False cliente=Heitor valor=397.58
-23:10:26.201 [consumer-C1] pedido_id=PED-0020 processado: notificacao enviada para Elisa (ack)
-23:10:26.202 [consumer-C1] pedido_id=PED-0022 recebido tentativa=1 redelivered=False cliente=Carla valor=282.81
-23:10:26.202 [consumer-C2] pedido_id=PED-0021 processado: notificacao enviada para Heitor (ack)
-23:10:26.203 [consumer-C2] pedido_id=PED-0023 recebido tentativa=1 redelivered=False cliente=Carla valor=25.29
-23:10:26.702 [consumer-C1] pedido_id=PED-0022 processado: notificacao enviada para Carla (ack)
-23:10:26.703 [consumer-C2] pedido_id=PED-0023 processado: notificacao enviada para Carla (ack)
-23:10:26.704 [consumer-C1] pedido_id=PED-0024 recebido tentativa=1 redelivered=False cliente=Elisa valor=310.56
-23:10:26.704 [consumer-C2] pedido_id=PED-0025 recebido tentativa=1 redelivered=False cliente=Ana valor=237.99
-23:10:27.204 [consumer-C1] pedido_id=PED-0024 processado: notificacao enviada para Elisa (ack)
-23:10:27.205 [consumer-C1] pedido_id=PED-0026 recebido tentativa=1 redelivered=False cliente=Ana valor=377.75
-23:10:27.205 [consumer-C2] pedido_id=PED-0025 processado: notificacao enviada para Ana (ack)
-23:10:27.206 [consumer-C2] pedido_id=PED-0027 recebido tentativa=1 redelivered=False cliente=Gabriela valor=106.03
-23:10:27.706 [consumer-C1] pedido_id=PED-0026 processado: notificacao enviada para Ana (ack)
-23:10:27.706 [consumer-C2] pedido_id=PED-0027 processado: notificacao enviada para Gabriela (ack)
-23:10:27.707 [consumer-C1] pedido_id=PED-0028 recebido tentativa=1 redelivered=False cliente=Diego valor=114.79
-23:10:27.707 [consumer-C2] pedido_id=PED-0029 recebido tentativa=1 redelivered=False cliente=Fabio valor=125.02
-23:10:28.207 [consumer-C1] pedido_id=PED-0028 processado: notificacao enviada para Diego (ack)
-23:10:28.207 [consumer-C2] pedido_id=PED-0029 processado: notificacao enviada para Fabio (ack)
-23:10:30.748 [consumer-C1] consumer parado
-23:10:30.748 [consumer-C2] consumer parado
+23:25:52.109 [consumer-C2] aguardando mensagens na fila 'notificacoes' (falhar_em=-, modo_falha=dlq)
+23:25:52.111 [consumer-C1] aguardando mensagens na fila 'notificacoes' (falhar_em=-, modo_falha=dlq)
+23:25:54.144 [consumer-C2] pedido_id=PED-0020 recebido tentativa=1 redelivered=False cliente=Fabio valor=309.46
+23:25:54.146 [consumer-C1] pedido_id=PED-0021 recebido tentativa=1 redelivered=False cliente=Ana valor=481.75
+23:25:54.645 [consumer-C2] pedido_id=PED-0020 processado: notificacao enviada para Fabio (ack)
+23:25:54.646 [consumer-C1] pedido_id=PED-0021 processado: notificacao enviada para Ana (ack)
+23:25:54.646 [consumer-C2] pedido_id=PED-0022 recebido tentativa=1 redelivered=False cliente=Gabriela valor=322.32
+23:25:54.647 [consumer-C1] pedido_id=PED-0023 recebido tentativa=1 redelivered=False cliente=Bruno valor=158.00
+23:25:55.147 [consumer-C2] pedido_id=PED-0022 processado: notificacao enviada para Gabriela (ack)
+23:25:55.148 [consumer-C1] pedido_id=PED-0023 processado: notificacao enviada para Bruno (ack)
+23:25:55.149 [consumer-C1] pedido_id=PED-0025 recebido tentativa=1 redelivered=False cliente=Gabriela valor=132.26
+23:25:55.149 [consumer-C2] pedido_id=PED-0024 recebido tentativa=1 redelivered=False cliente=Ana valor=138.81
+23:25:55.649 [consumer-C2] pedido_id=PED-0024 processado: notificacao enviada para Ana (ack)
+23:25:55.650 [consumer-C1] pedido_id=PED-0025 processado: notificacao enviada para Gabriela (ack)
+23:25:55.651 [consumer-C2] pedido_id=PED-0026 recebido tentativa=1 redelivered=False cliente=Ana valor=254.15
+23:25:55.652 [consumer-C1] pedido_id=PED-0027 recebido tentativa=1 redelivered=False cliente=Elisa valor=282.14
+23:25:56.152 [consumer-C1] pedido_id=PED-0027 processado: notificacao enviada para Elisa (ack)
+23:25:56.152 [consumer-C2] pedido_id=PED-0026 processado: notificacao enviada para Ana (ack)
+23:25:56.154 [consumer-C1] pedido_id=PED-0029 recebido tentativa=1 redelivered=False cliente=Heitor valor=40.22
+23:25:56.154 [consumer-C2] pedido_id=PED-0028 recebido tentativa=1 redelivered=False cliente=Bruno valor=87.67
+23:25:56.654 [consumer-C1] pedido_id=PED-0029 processado: notificacao enviada para Heitor (ack)
+23:25:56.654 [consumer-C2] pedido_id=PED-0028 processado: notificacao enviada para Bruno (ack)
+23:25:59.233 [consumer-C1] consumer parado
+23:25:59.233 [consumer-C2] consumer parado
 -- distribuicao --
 C1: 5 pedido(s)
 C2: 5 pedido(s)

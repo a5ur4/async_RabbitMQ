@@ -1,5 +1,5 @@
-23:10:01.606 [inspecionar] fila=notificacoes         mensagens_prontas=5   consumidores=0
-23:10:01.606 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0
+23:25:29.788 [inspecionar] fila=notificacoes         mensagens_prontas=5   consumidores=0
+23:25:29.789 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0
 -- reiniciando o BROKER para mostrar que a mensagem e persistente --
-23:10:08.559 [inspecionar] fila=notificacoes         mensagens_prontas=5   consumidores=0
-23:10:08.560 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0
+23:25:36.727 [inspecionar] fila=notificacoes         mensagens_prontas=5   consumidores=0
+23:25:36.727 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0

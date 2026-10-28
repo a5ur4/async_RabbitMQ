@@ -1,2 +1,2 @@
-23:10:20.297 [inspecionar] fila=notificacoes         mensagens_prontas=2   consumidores=0
-23:10:20.297 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0
+23:25:48.602 [inspecionar] fila=notificacoes         mensagens_prontas=2   consumidores=0
+23:25:48.602 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=0   consumidores=0

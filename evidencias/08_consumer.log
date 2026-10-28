@@ -1,10 +1,10 @@
-23:10:20.507 [consumer-C1] aguardando mensagens na fila 'notificacoes' (falhar_em=['PED-0010'], modo_falha=dlq)
-23:10:20.508 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
-23:10:21.008 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> reenfileirado para tentativa 2/3
-23:10:21.009 [consumer-C1] pedido_id=PED-0011 recebido tentativa=1 redelivered=False cliente=Fabio valor=369.00
-23:10:21.510 [consumer-C1] pedido_id=PED-0011 processado: notificacao enviada para Fabio (ack)
-23:10:21.511 [consumer-C1] pedido_id=PED-0010 recebido tentativa=2 redelivered=False cliente=Carla valor=484.91
-23:10:22.012 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> reenfileirado para tentativa 3/3
-23:10:22.014 [consumer-C1] pedido_id=PED-0010 recebido tentativa=3 redelivered=False cliente=Carla valor=484.91
-23:10:22.514 [consumer-C1] pedido_id=PED-0010 FALHOU 3 vezes -> nack requeue=False -> enviado para a DLQ
-23:10:23.339 [consumer-C1] consumer parado
+23:25:48.820 [consumer-C1] aguardando mensagens na fila 'notificacoes' (falhar_em=['PED-0010'], modo_falha=dlq)
+23:25:48.820 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Heitor valor=489.69
+23:25:49.321 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> reenfileirado para tentativa 2/3
+23:25:49.323 [consumer-C1] pedido_id=PED-0011 recebido tentativa=1 redelivered=False cliente=Heitor valor=314.57
+23:25:49.824 [consumer-C1] pedido_id=PED-0011 processado: notificacao enviada para Heitor (ack)
+23:25:49.825 [consumer-C1] pedido_id=PED-0010 recebido tentativa=2 redelivered=False cliente=Heitor valor=489.69
+23:25:50.326 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> reenfileirado para tentativa 3/3
+23:25:50.329 [consumer-C1] pedido_id=PED-0010 recebido tentativa=3 redelivered=False cliente=Heitor valor=489.69
+23:25:50.829 [consumer-C1] pedido_id=PED-0010 FALHOU 3 vezes -> nack requeue=False -> enviado para a DLQ
+23:25:51.656 [consumer-C1] consumer parado
