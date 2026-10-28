@@ -1,0 +1,12 @@
+23:10:31.062 [assinante-analytics] assinando exchange fanout via fila 'evento.analytics'
+23:10:31.062 [assinante-notificacoes] assinando exchange fanout via fila 'evento.notificacoes'
+23:10:33.015 [assinante-analytics] pedido_id=PED-0050 contabilizado: pedidos=1 faturamento=372.23 ticket_medio=372.23
+23:10:33.015 [assinante-notificacoes] pedido_id=PED-0050 e-mail de confirmacao enviado para Diego
+23:10:33.018 [assinante-analytics] pedido_id=PED-0051 contabilizado: pedidos=2 faturamento=836.52 ticket_medio=418.26
+23:10:33.018 [assinante-notificacoes] pedido_id=PED-0051 e-mail de confirmacao enviado para Heitor
+23:10:33.019 [assinante-analytics] pedido_id=PED-0052 contabilizado: pedidos=3 faturamento=1110.87 ticket_medio=370.29
+23:10:33.019 [assinante-notificacoes] pedido_id=PED-0052 e-mail de confirmacao enviado para Elisa
+23:10:33.021 [assinante-analytics] pedido_id=PED-0053 contabilizado: pedidos=4 faturamento=1431.63 ticket_medio=357.91
+23:10:33.021 [assinante-notificacoes] pedido_id=PED-0053 e-mail de confirmacao enviado para Bruno
+23:10:35.059 [assinante-analytics] assinante parado
+23:10:35.059 [assinante-notificacoes] assinante parado

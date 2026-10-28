@@ -1,0 +1,18 @@
+23:10:14.042 [consumer-C1] aguardando mensagens na fila 'notificacoes' (falhar_em=['PED-0010'], modo_falha=requeue)
+23:10:16.053 [consumer-C1] pedido_id=PED-0009 recebido tentativa=1 redelivered=False cliente=Heitor valor=403.67
+23:10:16.554 [consumer-C1] pedido_id=PED-0009 processado: notificacao enviada para Heitor (ack)
+23:10:16.555 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=False cliente=Carla valor=484.91
+23:10:17.055 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:17.057 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:17.557 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:17.590 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:18.091 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:18.092 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:18.592 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:18.594 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:19.094 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:19.095 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:19.595 [consumer-C1] pedido_id=PED-0010 FALHOU (falha simulada no envio da notificacao) -> nack requeue=True
+23:10:19.596 [consumer-C1] pedido_id=PED-0010 recebido tentativa=1 redelivered=True cliente=Carla valor=484.91
+23:10:20.127 [consumer-C1] consumer parado
+-- PED-0010 entregue 7 vezes; continua na fila --

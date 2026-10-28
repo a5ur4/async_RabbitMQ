@@ -1,0 +1,5 @@
+23:10:33.016 [producer] pedido_id=PED-0050 publicado em pedidos.eventos cliente=Diego valor=372.23 (confirmado pelo broker em 2.6 ms)
+23:10:33.018 [producer] pedido_id=PED-0051 publicado em pedidos.eventos cliente=Heitor valor=464.29 (confirmado pelo broker em 1.3 ms)
+23:10:33.019 [producer] pedido_id=PED-0052 publicado em pedidos.eventos cliente=Elisa valor=274.35 (confirmado pelo broker em 1.2 ms)
+23:10:33.021 [producer] pedido_id=PED-0053 publicado em pedidos.eventos cliente=Bruno valor=320.76 (confirmado pelo broker em 1.4 ms)
+23:10:33.021 [producer] 4 pedido(s) publicados em 7.4 ms - producer encerrado sem esperar processamento

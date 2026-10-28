@@ -1,0 +1,3 @@
+23:10:23.516 [inspecionar] fila=notificacoes         mensagens_prontas=0   consumidores=0
+23:10:23.517 [inspecionar] fila=notificacoes.dlq     mensagens_prontas=1   consumidores=0
+23:10:23.521 [inspecionar] DLQ -> {'pedido_id': 'PED-0010', 'cliente': 'Carla', 'valor': 484.91, 'criado_em': '2026-10-28T02:10:16+00:00'} | motivo=rejected fila_origem=notificacoes

@@ -1,0 +1,4 @@
+23:09:58.125 [producer] pedido_id=PED-0001 publicado em notificacoes cliente=Elisa valor=378.43 (confirmado pelo broker em 1.4 ms)
+23:09:58.126 [producer] pedido_id=PED-0002 publicado em notificacoes cliente=Bruno valor=54.03 (confirmado pelo broker em 1.1 ms)
+23:09:58.127 [producer] pedido_id=PED-0003 publicado em notificacoes cliente=Gabriela valor=399.16 (confirmado pelo broker em 1.0 ms)
+23:09:58.127 [producer] 3 pedido(s) publicados em 4.0 ms - producer encerrado sem esperar processamento
